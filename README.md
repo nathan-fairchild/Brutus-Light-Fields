@@ -4,6 +4,6 @@ We are making these available to the research community with the hope that they 
 
 https://storage.googleapis.com/immersive-lf-video-siggraph2020/CVPR_CCD_2021_Brutus_Abstract.pdf
 
-![Brutus Rig Setup](https://photos.google.com/share/AF1QipOFzEa5Pf7CUQjtQ85d_bs-qx7T21LQ78GJWfvudR7rLLSy0leVF00NY3ieu2DHIg?key=RWc4bGtWSzJZakRxTHN5VjU3dnMxcm8zaGxCSl93)
+![Brutus Rig Setup](https://lh3.googleusercontent.com/pw/AL9nZEVs0tpFtPsTB9mVvbDr6cX9VSg9148CxQ_lf7FvoLoTvvKilZC7pN7wtjyY4bp94Eo_yO1PjGWhX7M8xuIrWkU5cCOz9XTJ3fpAoDQ_mc04XtjXLhXf5q5cVL5suHOaVg-sdwZyYr6U2eSeHXSzKuqNhw=w1263-h947-no?authuser=0)
 
-![Brutus Rig Close-up](https://photos.google.com/share/AF1QipPNmjZbzeSoMybMItDlwU9YUD0wG5A9swrSRxpX0rIiFG_PFW_XJYO7u4zTHnMwZQ?key=NHVjM0NxYkY5eDdIOFdFNnNJVG5aWXo3ZFNBb0NR)
+![Brutus Rig Close-up](https://lh3.googleusercontent.com/pw/AL9nZEV3734rdinxt2AcW8owhm1poCh5aAeEaqCuoDljMAq23BYoYlilV0Z0hJI9aE_DPkgKTiSB5coxgE7zlmH7-lrYT4RogZKm0BZU1tRMbgl_qaXQM5o3Erwkl5QWO1xyrQ5civ6dTCJFDZkLtF1UCfbULQ=w1263-h947-no?authuser=0)
