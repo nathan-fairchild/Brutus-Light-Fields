@@ -1,4 +1,4 @@
-Brutus is a repository of the high-fidelity captures from Google's Brutus light field video rig. We are making these available to the research community with the hope that they can be played back in real time in a VR headset -- and in the process, to build a free and open-source tool for light field video for VR. 
+Brutus is a repository of the high-fidelity captures from Google's Brutus light field video rig. We are making these available to the research community with the hope that they can be played back in real time in a VR headset -- and that in the process, we can build a free and open-source tool for light field video for VR. 
 
 https://storage.googleapis.com/immersive-lf-video-siggraph2020/CVPR_CCD_2021_Brutus_Abstract.pdf
 
