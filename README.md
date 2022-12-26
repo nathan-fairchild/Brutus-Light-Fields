@@ -19,7 +19,13 @@ Brutus was featured in the SIGGRAPH Labs venue at SIGGRAPH 2020: https://youtu.b
 The four clips provided here are excerpts from material shot with Brutus including:
 
 "Bagpipes" - A backyard performance of "Amazing Grace" by Andrew MacGregor https://www.mightykingdrew.com/
+
 "ElectricViolin" - An electric violin and Chinese erhu performance by Chishuan Yang http://chihsuan.com/
+
 "Funhouse" - An interview with Google Artist-in-Residence Alexa Meade in her colorful Los Angeles apartment http://alexameade.com/
+
 "Hearts" - From the play "99 Percent Compatible" written and performed by Amanda Weier and Derek Manson 
+
+
+Full-length versions of these several-minute performances can be provided upon request.
 
