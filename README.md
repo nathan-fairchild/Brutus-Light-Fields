@@ -29,3 +29,10 @@ The four clips provided here are excerpts from material shot with Brutus includi
 
 Full-length versions of these several-minute performances can be provided upon request.
 
+![BrutusCircularLayoutNumbered.png]
+![BrutusLayout.png]
+
+*Bagpipes*
+**Bagpipes*  - ha
+
+
