@@ -14,8 +14,6 @@ Brutus was featured in the SIGGRAPH Labs venue at SIGGRAPH 2020: https://youtu.b
 
 ![Brutus Rig Close-up](https://github.com/nathan-fairchild/Brutus-Light-Fields/blob/main/debevec-brutus-2a.jpg)
 
-![Brutus Rig Close-up](https://lh3.googleusercontent.com/pw/AL9nZEV3734rdinxt2AcW8owhm1poCh5aAeEaqCuoDljMAq23BYoYlilV0Z0hJI9aE_DPkgKTiSB5coxgE7zlmH7-lrYT4RogZKm0BZU1tRMbgl_qaXQM5o3Erwkl5QWO1xyrQ5civ6dTCJFDZkLtF1UCfbULQ=w1263-h947-no?authuser=0)
-
 The four clips provided here are excerpts from material shot with Brutus including:
 
 **"Bagpipes"** - A backyard performance of "Amazing Grace" by Andrew MacGregor https://www.mightykingdrew.com/
