@@ -10,9 +10,7 @@ The Brutus rig was is the final rig from Google's Deep View Video project, publi
 
 Brutus was featured in the SIGGRAPH Labs venue at SIGGRAPH 2020: https://youtu.be/2VCvnnVhqcQ?t=464 , and described in a technical poster in Busch et al, "Brutus: A Mid-Range Multi-Camera Array for Immersive Light Field Video Capture", at the CVPR  2021 workshop on Computational Cameras and Displays: https://storage.googleapis.com/immersive-lf-video-siggraph2020/CVPR_CCD_2021_Brutus_Abstract.pdf
 
-
 ![Brutus Rig Setup](https://lh3.googleusercontent.com/pw/AL9nZEVs0tpFtPsTB9mVvbDr6cX9VSg9148CxQ_lf7FvoLoTvvKilZC7pN7wtjyY4bp94Eo_yO1PjGWhX7M8xuIrWkU5cCOz9XTJ3fpAoDQ_mc04XtjXLhXf5q5cVL5suHOaVg-sdwZyYr6U2eSeHXSzKuqNhw=w1263-h947-no?authuser=0)
-
 
 ![Brutus Rig Close-up](https://lh3.googleusercontent.com/pw/AL9nZEV3734rdinxt2AcW8owhm1poCh5aAeEaqCuoDljMAq23BYoYlilV0Z0hJI9aE_DPkgKTiSB5coxgE7zlmH7-lrYT4RogZKm0BZU1tRMbgl_qaXQM5o3Erwkl5QWO1xyrQ5civ6dTCJFDZkLtF1UCfbULQ=w1263-h947-no?authuser=0)
 
@@ -26,7 +24,9 @@ The four clips provided here are excerpts from material shot with Brutus includi
 
 **"Hearts"** - From the play "99 Percent Compatible" written and performed by Amanda Weier and Derek Manson 
 
-
 Full-length versions of these several-minute performances can be provided upon request.
 
-
+For questions, contact:
+Paul Debevec <debevec@gmail.com>
+Matthew Duvall <matthewduvall@google.com>
+Nathan Fairchild <nfairchi@usc.edu>
