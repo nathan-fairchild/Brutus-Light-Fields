@@ -10,9 +10,7 @@ The Brutus rig was is the final rig from Google's Deep View Video project, publi
 
 Brutus was featured in the SIGGRAPH Labs venue at SIGGRAPH 2020: https://youtu.be/2VCvnnVhqcQ?t=464 , and described in a technical poster in Busch et al, "Brutus: A Mid-Range Multi-Camera Array for Immersive Light Field Video Capture", at the CVPR  2021 workshop on Computational Cameras and Displays: https://storage.googleapis.com/immersive-lf-video-siggraph2020/CVPR_CCD_2021_Brutus_Abstract.pdf
 
-![Brutus Rig Setup](https://lh3.googleusercontent.com/pw/AL9nZEVs0tpFtPsTB9mVvbDr6cX9VSg9148CxQ_lf7FvoLoTvvKilZC7pN7wtjyY4bp94Eo_yO1PjGWhX7M8xuIrWkU5cCOz9XTJ3fpAoDQ_mc04XtjXLhXf5q5cVL5suHOaVg-sdwZyYr6U2eSeHXSzKuqNhw=w1263-h947-no?authuser=0)
-
-![Brutus Rig Close-up](https://github.com/nathan-fairchild/Brutus-Light-Fields/blob/main/debevec-brutus-2a.jpg)
+![Brutus Performances](https://github.com/nathan-fairchild/Brutus-Light-Fields/blob/main/Brutus-LightFieldVideo-Performances-2020.jpg)
 
 The four clips provided here are excerpts from material shot with Brutus including:
 
@@ -30,3 +28,8 @@ For questions, contact:
 Paul Debevec <debevec@gmail.com>
 Matthew Duvall <matthewduvall@google.com>
 Nathan Fairchild <nfairchi@usc.edu>
+
+![Brutus Rig Setup](https://lh3.googleusercontent.com/pw/AL9nZEVs0tpFtPsTB9mVvbDr6cX9VSg9148CxQ_lf7FvoLoTvvKilZC7pN7wtjyY4bp94Eo_yO1PjGWhX7M8xuIrWkU5cCOz9XTJ3fpAoDQ_mc04XtjXLhXf5q5cVL5suHOaVg-sdwZyYr6U2eSeHXSzKuqNhw=w1263-h947-no?authuser=0)
+
+![Brutus Rig Close-up](https://github.com/nathan-fairchild/Brutus-Light-Fields/blob/main/debevec-brutus-2a.jpg)
+
